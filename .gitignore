@@ -1,0 +1,9 @@
+*.class
+*~
+~lock.*
+~$*
+.DS_Store
+*.svn/
+*.nogit/
+installs/
+target/
